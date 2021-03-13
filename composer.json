@@ -1,0 +1,19 @@
+{
+    "name": "littlexiaoshuishui/upay",
+    "description": "pay sdk",
+    "type": "sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "littlexiaoshuishui",
+            "email": "120781991@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Littlexiaoshuishui\\Upay\\": "src/"
+        }
+    }
+}
